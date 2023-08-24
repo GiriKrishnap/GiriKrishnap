@@ -1,13 +1,15 @@
 
   <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
-    <h2 align="center">IAM GIRI KRISHNA</h2>
+   <p align="center"><img width="80%" alt="Hello, I'm GiriKrishna." src="./assest/text.png" /></p>
     <p align="center">
-      I'm a self-taught passionate MERN Stack developer from India 🇮🇳
+      a self-taught passionate MERN Stack developer from India 🇮🇳
     </p>
+    <br><br>
     <p align="center">
   <img src= "https://media.giphy.com/media/1dMlPP0fybIZy/giphy.webp" autoplay>
       </p>
+      <br>
 <!--  -------------------------------- -->
 <h2 align="center"> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="center">
