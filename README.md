@@ -8,7 +8,7 @@
     </p>
     <br><br>
     <p align="center">
-  <img src= "https://media.giphy.com/media/1dMlPP0fybIZy/giphy.webp" autoplay>
+  <img src= "https://media.giphy.com/media/1dMlPP0fybIZy/giphy.webp](https://media1.tenor.com/m/pQ9jr5TqhUEAAAAC/mash-mash-burnedead.gif" autoplay>
       </p>
       <br>
 <!--  -------------------------------- -->
