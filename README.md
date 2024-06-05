@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Giri Krishna P</h1>
-<h3 align="center">A passionate MERN Stack developer from India</h3>
+<h4 align="center">A passionate MERN Stack developer from India</h4>
 
+<hr/>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/giri-krishna-p/) 
@@ -15,8 +16,8 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
----
 [![](https://visitcount.itsvg.in/api?id=GiriKrishnap&icon=4&color=0)](https://visitcount.itsvg.in)
+---
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!--  -------------------------------- -->
