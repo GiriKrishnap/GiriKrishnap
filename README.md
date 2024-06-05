@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Giri Krishna P</h1>
 <h3 align="center">A passionate MERN Stack developer from India</h3>
 
-# 💫 About Me:
-"I am a MERN stack developer passionate about creating responsive and high-quality websites, with a constant drive for self-improvement."
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/giri-krishna-p/) 
