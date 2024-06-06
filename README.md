@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Giri Krishna P</h1>
 <h4 align="center">A passionate MERN Stack developer from India</h4>
-<img align="center" weidth="100%" hight="80%" src='https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMm5vaTB0MWR5YmJpeXRsaHRuYzZlZGlycG83aTg5NHpyZ3g4ZHZhMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pNx09ajeVCJ3O/giphy.webp'/>
+<p align="center" >
+<img src='https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMm5vaTB0MWR5YmJpeXRsaHRuYzZlZGlycG83aTg5NHpyZ3g4ZHZhMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pNx09ajeVCJ3O/giphy.webp'/>
+</p>
 <hr/>
 
 ## 🌐 Socials:
